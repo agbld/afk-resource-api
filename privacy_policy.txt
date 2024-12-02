@@ -1,0 +1,38 @@
+**Privacy Policy**
+
+**Effective Date:** [Insert Date]
+
+This Privacy Policy outlines how the Character API ("we", "our", or "us") collects, uses, and protects the data provided by users of our API. By accessing or using the API, you agree to the terms of this Privacy Policy.
+
+---
+
+### **Information We Collect**
+- **Request Data**: We collect information provided directly by users, such as the character name in API requests.
+- **Usage Data**: We may collect anonymous usage data, such as timestamps and IP addresses, for analytics and debugging purposes.
+
+---
+
+### **How We Use Your Information**
+- To provide and improve the API functionality.
+- To debug and maintain the service.
+- To monitor API performance and usage patterns.
+
+---
+
+### **Data Sharing**
+We do not sell, share, or distribute your data to third parties, except:
+- When required by law or legal processes.
+- To protect the security and integrity of our API.
+
+---
+
+### **Data Retention**
+We retain data only for as long as necessary to fulfill its intended purpose or comply with legal requirements.
+
+---
+
+### **Your Choices**
+- You can stop using the API at any time. 
+- You may contact us to inquire about or request the deletion of any collected data.
+
+---

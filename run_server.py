@@ -13,5 +13,11 @@ def api_get_character_info(character_name):
     info = get_character_info(character_name)
     return jsonify({'character_name': character_name, 'info': info})
 
+@app.route('/privacy', methods=['GET'])
+def privacy():
+    with open('./privacy_policy.txt', 'r') as file:
+        privacy_policy = file.read()
+        return privacy_policy
+
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8000, debug=False)
+    app.run(host='0.0.0.0', port=1206, debug=False)
